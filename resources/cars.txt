@@ -1,0 +1,5 @@
+year make model
+2020 Swift LXI
+2019 Figo Titanium
+2021 WagonR ZXI
+2015 i10 Magna
